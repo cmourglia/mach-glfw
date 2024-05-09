@@ -12,8 +12,8 @@
     },
     .dependencies = .{
         .glfw = .{
-            .url = "https://pkg.machengine.org/glfw/98b4bca1542156dcedc6ab87b365a7ac61d1b77b.tar.gz",
-            .hash = "12202b5b936e38c0ebf384de6b3c8e7771b1f17ba952c3fc8e3a0c852fc4710b537a",
+            .url = "https://github.com/cmourglia/zig-glfw/archive/6fb043dcb7ceeb3de957a439387e7a38a1beb2ad.tar.gz",
+            .hash = "122006938e0b0cc2168e6c6e9f85d50c2dceded42f6e083ac9a45cadad87cc21330c",
         },
     },
 }
